@@ -1,6 +1,6 @@
-
+<p
 <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-
+</p>
 <p align="center">
   <a href="https://github.com/santanaribeiro">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=santanaribeiro&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
