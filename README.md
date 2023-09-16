@@ -15,7 +15,6 @@
 
 <a> 
     <a href="https://github.com/santanaribeiro"><img alt="Santanaribeiro Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=santanaribeiro&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/santanaribeiro"><img alt="Santanaribeiro Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=santanaribeiro&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
