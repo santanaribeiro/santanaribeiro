@@ -1,6 +1,3 @@
-<p align="center">
-<img src="/assets/pro.gif" alt="Coding gif"height="600px" width="1000px" />
-</p>
 
 <p align="center">
   <a href="https://github.com/santanaribeiro">
@@ -17,3 +14,7 @@
 </a>
 
 ![Santanaribeiro Graph](https://github-readme-activity-graph.vercel.app/graph?username=santanaribeiro&custom_title=Santanaribeiro%20GitHub%20Activity%20Graph&bg_color=0D1117&color=85b4de&line=85b4de&point=85b4de&area_color=ab1d5a&title_color=ab1d5a&area=true)
+
+<p align="center">
+<img src="/assets/pro.gif" alt="Coding gif"height="600px" width="1000px" />
+</p>
